@@ -1,0 +1,2 @@
+这个爬虫是对东南大学教务处(jwc.seu)的学生基本信息进行爬取
+采用from multiprocessing import Pool多进程库
